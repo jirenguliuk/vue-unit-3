@@ -1,0 +1,21 @@
+{
+  "name": "vue-unit-2",
+  "version": "1.0.0",
+  "description": "A vue.js demo",
+  "main": "app.js",
+  "dependencies": {
+    "vue": "^2.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jirenguliuk/vue-unit-2.git"
+  },
+  "devDependencies": {
+
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
